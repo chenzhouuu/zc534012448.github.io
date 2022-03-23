@@ -29,9 +29,9 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [] # only show disqus for posts that have these categories
+# disqus:
+#   shortname: mydisqus # enter this from your disqus account
+#   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: RohitWaitForItMidha
@@ -39,7 +39,7 @@ disqus:
 # google: mygoogle
 # instagram: notrohitmidha
 # pinterest: mypinterest
-linkedin: Chen Zhou/
+linkedin: chen-zhou-922999202/
 # youtube: myyoutube
 # spotify: myspotify
 github: zc534012448
